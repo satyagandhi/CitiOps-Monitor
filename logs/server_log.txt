@@ -1,0 +1,7 @@
+INFO: Server initialized
+INFO: Listening on port 8080
+WARNING: CPU usage high
+ERROR: Database connection lost
+INFO: Reconnecting to database
+WARNING: Disk usage above 80 percent
+INFO: Recovery process started
