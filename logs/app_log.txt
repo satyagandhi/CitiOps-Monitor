@@ -1,0 +1,8 @@
+INFO: Application started
+INFO: Database connection established
+WARNING: API response delay detected
+ERROR: Failed to fetch transaction details
+INFO: Request processed successfully
+ERROR: Kafka broker timeout
+WARNING: Memory usage above threshold
+INFO: Background scheduler running
