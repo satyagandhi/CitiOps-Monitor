@@ -1,6 +1,6 @@
-# CitiOps Monitor – Application Support Monitoring & Incident Tracker
+SupportPulse – Application Support Monitoring System
 
-CitiOps Monitor is a medium-sized project that simulates real-world application support workflows.  
+SupportPulse is a medium-sized project that simulates real-world application support workflows.  
 It demonstrates how support engineers monitor logs, perform service health checks, and generate incident reports to identify operational issues.
 
 ---
